@@ -3,7 +3,7 @@
 void gcdlcm(int a, int b, int* _gcd, int* _lcm)
 {
 	int n = a > b ? b : a;
-	int gcd = 1, lcm;
+	*_gcd = 1;
 	for (int i = 1; i <= n; i++)
 		if (a % i == 0 && b % i == 0)
 			*_gcd = i;
