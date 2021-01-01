@@ -2,8 +2,8 @@
 
 void strcopy(char* a, char* b)
 {
-	for (int i = 0; i < 6; i++)
-		*(a + i) = *(b + i);		
+	for (char* p = a, *p1 = b; p < a + 6; p++, p1++)
+		*p = *p1;
 }
 
 int main()
