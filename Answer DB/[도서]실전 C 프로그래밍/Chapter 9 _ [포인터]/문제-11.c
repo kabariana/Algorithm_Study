@@ -2,13 +2,13 @@
 
 void strcopy(char* a, char* b)
 {
-	for (char* p = a, *p1 = b; p < a + 6; p++, p1++)
-		*p = *p1;
+	while (*b)
+		*a++ = *b++;
 }
 
 int main()
 {
-	char a[6], b[6];
+	char a[7], b[7] = { 0 };
 	char* p;
 
 	for (p = b; p < b + 6; p++)
