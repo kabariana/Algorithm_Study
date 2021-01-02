@@ -2,8 +2,8 @@
 
 void addArray(int* a, int* b, int* c, int size)
 {
-	for (int* p = a, *p1 = b + size - 1, *p2 = c; p < a + size; p++, p1--, p2++)
-		*p2 = (*p) + (*p1);
+	for (int i = 0; i < size; i++)
+		*(c + i) = *(a + i) + *(b + size - 1 - i);
 }
 
 int  main()
