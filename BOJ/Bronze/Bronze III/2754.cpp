@@ -15,10 +15,10 @@ int main(int argc, char* argv[])
         temp = 4;
         break;
     case 'B':
-        temp = 2;
+        temp = 3;
         break;
     case 'C':
-        temp = 3;
+        temp = 2;
         break;
     case 'D':
         temp = 1;
