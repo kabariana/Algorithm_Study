@@ -1,3 +1,4 @@
+// 간단한 그리디 문제
 #include <bits/stdc++.h>
 
 int main(int argc, char* argv[])
