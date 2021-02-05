@@ -1,22 +1,15 @@
-#include <iostream>
+// 예카테린부르크 다리가 건설된 해 = 1723년 ㅡ.ㅡ;;
+
+#include <bits/stdc++.h>
 
 int main(int argc, char* argv[])
 {
     std::ios_base::sync_with_stdio(false);
-    std::cout.tie(nullptr), std::cin.tie(nullptr);
+    std::cin.tie(nullptr), std::cout.tie(nullptr);
+    int arr[4] = {1,7,2,3};
+    int d;
+    std::cin >> d;
 
-    int n;
-
-    std::cin >> n;
-
-    if(n <= 5) 
-        std::cout << n;
-    else
-    {
-        if((n-5)/4%2 == 0)
-            std::cout << 5 - (n-5)%4;
-        else
-            std::cout << 1 + (n-5)%4;
-    }
+    std::cout << arr[d-1];
     return 0;
 }
