@@ -3,7 +3,6 @@
 
 int n, m;
 int graph[101][101];
-std::string arr[101];
 
 int dx[] = {-1, 1, 0, 0};
 int dy[] = {0, 0, -1, 1};
@@ -40,7 +39,8 @@ int bfs(int start_x, int start_y)
 int main(int argc, char* argv[])
 {
 	std::cin>>n>>m;
-	for(int i=0; i<n; i++)
+	
+    for(int i=0; i<n; i++)
     {
 		for(int j=0; j<m; j++)
         {
