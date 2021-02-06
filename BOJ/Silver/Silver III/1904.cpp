@@ -12,7 +12,6 @@ ll func(int n)
     return dp[n];
 }
 
-
 int main(int argc, char* argv[])
 {
     int n;
