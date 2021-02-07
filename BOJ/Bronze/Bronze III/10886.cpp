@@ -10,7 +10,6 @@ int main(int argc, char* argv[])
         if(surv == 1)
             cnt++;
     }
-    std::cout << cnt << ' ' << n-cnt;
     if(cnt > n-cnt)
         std::cout << "Junhee is cute!";
     else 
