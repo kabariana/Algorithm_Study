@@ -11,9 +11,9 @@ int main(int argc, char* argv[])
         int pt = d + n*p;
 
         if(pt < st)
-            std::cout << "paralleize\n";
+            std::cout << "parallelize\n";
         else if(pt > st)
-            std::cout << "do not paralleize\n";
+            std::cout << "do not parallelize\n";
         else
             std::cout << "does not matter\n";
     }
