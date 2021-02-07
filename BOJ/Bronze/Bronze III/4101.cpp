@@ -11,7 +11,7 @@ int main(int argc, char* argv[])
         else
         {
             if(a>b)
-                std::cout << "YES\n";
+                std::cout << "Yes\n";
             else
                 std::cout << "No\n";
         }
