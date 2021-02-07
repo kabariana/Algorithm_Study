@@ -1,3 +1,5 @@
+// __int128_t 와 같은 자료형을 사용하는 방법도 있긴하다.
+// gcc 및 clang에서 지원
 #include <bits/stdc++.h>
 
 int main(int argc, char* argv[])
