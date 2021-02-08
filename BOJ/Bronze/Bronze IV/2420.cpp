@@ -9,4 +9,6 @@ int main(int argc, char* argv[])
         result = a - b;
     else
         result = b - a;
+    std::cout << result;
+    return 0;
 }

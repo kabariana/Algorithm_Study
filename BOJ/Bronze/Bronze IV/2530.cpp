@@ -23,4 +23,5 @@ int main(int argc, char* argv[])
     if(h >= 24)
         h%=24;
     std::cout << h << ' ' << m << ' ' << s;
+    return 0;
 }
