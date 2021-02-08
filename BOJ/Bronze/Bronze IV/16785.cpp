@@ -10,8 +10,7 @@ int main(int argc, char* argv[])
     result = (div + a -1) / a;
     if(result > 7)
         result = 7;
-    else
-        result += nWeek*7;
+    result += nWeek*7;
     std::cout << result;
     return 0;
 }
