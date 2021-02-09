@@ -22,7 +22,7 @@ int main(int argc, char* argv[])
         if (arr[0] > arr[1])
             result = "GOOD";
         else if (arr[0] < arr[1])
-            result = "BAD";
+            result = "A BADDY";
         else
             result = "NEUTRAL";
 
