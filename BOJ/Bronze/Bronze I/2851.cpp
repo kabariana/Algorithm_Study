@@ -14,4 +14,6 @@ int main(int argc, char* argv[])
         else
             break;
     }
+    std::cout << sum;
+    return 0;
 }
