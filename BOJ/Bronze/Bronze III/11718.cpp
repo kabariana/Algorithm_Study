@@ -10,4 +10,5 @@ int main(int argc, char* argv[])
             break;
         std::cout << str << '\n';
     }
+    return 0;
 }
