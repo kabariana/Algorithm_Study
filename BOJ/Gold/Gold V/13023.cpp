@@ -43,4 +43,3 @@ int main(int argc, char* argv[])
     std::cout << "0";
     return 0;
 }
-
