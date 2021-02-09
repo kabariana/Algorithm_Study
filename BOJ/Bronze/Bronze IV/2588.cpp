@@ -15,4 +15,5 @@ int main(int argc, char* argv[])
     std::cout << r2 << '\n';
     std::cout << r3 << '\n';
     std::cout << fin;
+    return 0;
 }
