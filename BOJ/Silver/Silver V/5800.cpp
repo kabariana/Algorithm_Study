@@ -33,7 +33,7 @@ int main(int argc, char* argv[])
             if(gap < v[i] - v[i+1])
                 gap = v[i] - v[i+1];
 
-        std::cout << "MAX " << v[0] << ", Min " << v[n-1] << ", Largest gap " << gap << '\n';
+        std::cout << "Max " << v[0] << ", Min " << v[n-1] << ", Largest gap " << gap << '\n';
     }    
     return 0;
 }
