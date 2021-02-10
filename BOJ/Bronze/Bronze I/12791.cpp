@@ -37,19 +37,19 @@ int main(int argc, char* argv[])
 
     int Q;
     std::cin >> Q;
-    while(Q--)
+    while (Q--)
     {
         int a, b, cnt = 0;
         std::cin >> a >> b;
 
-        for(int i = 0; i<25; i++)
-            if(arr[i].year >= a && arr[i].year <= b)
+        for (int i = 0; i < 25; i++)
+            if (arr[i].year >= a && arr[i].year <= b)
                 cnt++;
 
         std::cout << cnt << '\n';
 
-        for(int i = 0; i < 25; i++)
-            if(arr[i].year >= a && arr[i].year <= b)
+        for (int i = 0; i < 25; i++)
+            if (arr[i].year >= a && arr[i].year <= b)
                 std::cout << arr[i].year << ' ' << arr[i].title << '\n';
     }
     return 0;
