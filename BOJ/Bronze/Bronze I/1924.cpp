@@ -25,13 +25,14 @@ int main(int argc, char* argv[])
         std::cout << "WED\n";
         break;
     case 4:
-        std::cout << "SUN\n";
+        std::cout << "THU\n";
         break;
     case 5:
-        std::cout << "SUN\n";
+        std::cout << "FRI\n";
         break;
     case 6:
-        std::cout << "SUN\n";
+        std::cout << "SAT\n";
         break;
     }
+    return 0;
 }
