@@ -22,7 +22,7 @@ int main(int argc, char* argv[])
         else if(i == 2)
             std::cout << "2.5\n";
         else
-            printf("%.9f", ret);
+            printf("%.9f\n", ret);
     }
     return 0;
 }
