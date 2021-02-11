@@ -6,9 +6,7 @@ int main(int argc, char* argv[])
     std::cin >> n;
 
     for(long long i = 1; i < n; i++)
-    {
         sum+=(n+1)*i;
-    }
     std::cout << sum;
     return 0;
 }
