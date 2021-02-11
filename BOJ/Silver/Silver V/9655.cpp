@@ -9,4 +9,5 @@ int main(int argc, char* argv[])
         std::cout << "SK";
     else
         std::cout << "CY";
+    return 0;
 }
