@@ -13,7 +13,7 @@ int main(int argc, char* argv[])
 
         if(x > 0 && y > 0)
             arr[0]++;
-        else if(x < 0 && y < 0)
+        else if(x < 0 && y > 0)
             arr[1]++;
         else if(x < 0 && y < 0)
             arr[2]++;
