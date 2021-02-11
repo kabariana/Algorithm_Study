@@ -8,18 +8,18 @@ int main(int argc, char* argv[])
     int T;
     std::cin >> T;
 
-    while(T--)
+    while (T--)
     {
         int n;
         std::cin >> n;
-        std::cout << "Pairs for " << n << ":\n";
-        for(int i = 0; i<n; i++)
+        std::cout << "Pairs for " << n << ": ";
+        for (int i = 0; i < n; i++)
         {
-            for(int j = 0; j<n; j++)
+            for (int j = 0; j < n; j++)
             {
-                if(i+j == n && i < j)
+                if (i + j == n && i < j)
                 {
-                    if(i == 1)
+                    if (i == 1)
                         std::cout << i << ' ' << j;
                     else
                         std::cout << ", " << i << ' ' << j;
