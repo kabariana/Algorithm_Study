@@ -11,9 +11,7 @@ int main(int argc, char* argv[])
     {
         long long int n, ret;
         std::cin >> n;
-
         ret = n*n;
-
         std::cout << ret << '\n';
     }
     return 0;
