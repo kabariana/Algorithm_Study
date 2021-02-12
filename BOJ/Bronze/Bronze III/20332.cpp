@@ -15,4 +15,5 @@ int main(int argc, char* argv[])
         std::cout << "yes";
     else
         std::cout << "no";
+    return 0;
 }
