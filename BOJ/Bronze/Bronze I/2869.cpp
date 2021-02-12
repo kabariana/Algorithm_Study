@@ -6,4 +6,6 @@ int main(int argc, char* argv[])
     std::cin >> a >> b >> v;
 
     int d = (v - b - 1) / (a - b) + 1;
+    std::cout << d;
+    return 0;
 }
