@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 
-char map[3073][3073];
+char map[3073][6146];
 char preset[3][6] = { "  *  ", " * * ", "*****" };
 
 void f(int n, int c, int r)
