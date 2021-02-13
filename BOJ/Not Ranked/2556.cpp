@@ -11,4 +11,5 @@ int main(int argc, char* argv[])
             std::cout << "*";
         std::cout << '\n';
     }
+    return 0;
 }
