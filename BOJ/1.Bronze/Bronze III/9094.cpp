@@ -1,3 +1,4 @@
+// 브루트포스 알고리즘
 #include <bits/stdc++.h>
 
 int main(int argc, char* argv[])
