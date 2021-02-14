@@ -18,6 +18,5 @@ int main(int argc, char* argv[])
     else
         for(int i = 0; i<res.size(); i++)
             std::cout << res[i] << ' ';
-            
     return 0;
 }
