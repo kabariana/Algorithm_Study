@@ -8,5 +8,6 @@ int main(int argc, char* argv[])
     if(n%2 == 1)
         std::cout << "SK";
     else
-        std::cout << "CY"
+        std::cout << "CY";
+    return 0;
 }
