@@ -9,7 +9,7 @@ int main(int argc, char* argv[])
 
     for(int i = 0; str[i]; i++)
     {
-        std::string tmp = str.substr(i, str.length()-1);
+        std::string tmp = str.substr(i, str.length()-i);
         v.push_back(tmp);
     }
     std::sort(v.begin(), v.end());
