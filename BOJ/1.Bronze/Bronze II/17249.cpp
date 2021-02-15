@@ -14,6 +14,7 @@ int main(int argc, char* argv[])
             l_cnt++;
         if(str[i]=='@' && temp == 1)
             r_cnt++;
+        // 기준지점 얼굴 입모양
         if(str[i] == '0')
             temp=1;
     }
