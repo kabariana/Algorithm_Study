@@ -8,7 +8,7 @@ int main(int argc, char* argv[])
     {
         long long n, result;
         std::cin >> n;
-        result = (n*(n+1ll)^(n+1ll));
+        result = (n*(n+1)^(n+1));
         std::cout << result <<'\n';
     }   
     return 0;
