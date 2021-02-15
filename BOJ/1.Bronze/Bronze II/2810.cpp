@@ -29,6 +29,5 @@ int main(int argc, char* argv[])
     if(res > n)
         res = n;
     std::cout << res;
-
-
+    return 0;
 }
