@@ -34,4 +34,5 @@ int main(int argc, char* argv[])
         std::cout << "Eyfa";
     else
         std::cout << "Not Eyfa";
+    return 0;
 }
