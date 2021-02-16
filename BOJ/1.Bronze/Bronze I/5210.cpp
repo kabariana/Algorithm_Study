@@ -24,7 +24,7 @@ int main(int argc, char* argv[])
         int num;
         std::cin >> num;
         std::cin.ignore();
-        std::string arr[100];
+        std::string* arr = new std::string[num];
 
         for (int j = 0; j < num; j++)
         {
@@ -42,6 +42,7 @@ int main(int argc, char* argv[])
             if (func(arr[k], key, 0, 0))
                 std::cout << arr[k] << '\n';
         }
+        delete[] arr;
     }
     return 0;
 }
