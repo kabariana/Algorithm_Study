@@ -3,17 +3,18 @@
 int n;
 int result;
 
-void dfs(int a)
+void func(int a)
 {
     if(a>n) return;
-    dfs(a*10+7);
-    dfs(a*10+4);
+    func(a*10+7);
+    func(a*10+4);
     result = std::max(result, a);
 }
 
 int main(int argc, char* argv[])
 {
     std::cin >> n;
-    dfs(0);
+    func(0);
     std::cout << result;
+    return 0;
 }
