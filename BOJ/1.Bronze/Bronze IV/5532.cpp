@@ -11,4 +11,5 @@ int main(int argc, char* argv[])
 
     result = (kT>mT)? l-kT:l-mT;
     std::cout << result;
+    return 0;
 }
