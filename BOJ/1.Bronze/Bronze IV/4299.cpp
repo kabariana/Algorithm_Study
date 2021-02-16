@@ -16,4 +16,6 @@ int main(int argc, char* argv[])
         }
     }
     if(!flag)
+        std::cout << "-1";
+    return 0;
 }
