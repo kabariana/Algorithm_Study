@@ -7,4 +7,5 @@ int main(int argc, char* argv[])
     a = n/2;
     b = n-a;
     std::cout << (a+1)*(b+1);
+    return 0;
 }
