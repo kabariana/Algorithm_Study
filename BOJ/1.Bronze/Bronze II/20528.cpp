@@ -1,3 +1,5 @@
+// 입력되는 문자열은 전부 펠린드롬 문자열이니
+// 각 문자열의 제일 첫 번째 문자들만 비교하면 됨
 #include <bits/stdc++.h>
 
 int main(int argc, char* argv[])
@@ -20,4 +22,5 @@ int main(int argc, char* argv[])
         std::cout << "1";
     else
         std::cout << "0";
+    return 0;
 }
