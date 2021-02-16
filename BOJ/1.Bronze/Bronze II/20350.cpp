@@ -1,3 +1,5 @@
+//C++로 풀어서 그런가... 난이도가 B2가 아닌 것 같은... ㅋㅋ
+
 #include <bits/stdc++.h>
 
 int main(int argc, char* argv[])
