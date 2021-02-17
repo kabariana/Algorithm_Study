@@ -23,4 +23,5 @@ int main(int argc, char* argv[])
         }
         std::cout << cnt << '\n';
     }
+    return 0;
 }
