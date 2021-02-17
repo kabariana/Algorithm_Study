@@ -26,5 +26,5 @@ int main(int argc, char* argv[])
         ans++;
     }
     std::cout << ans;
-
+    return 0;
 }
