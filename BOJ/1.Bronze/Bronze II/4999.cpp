@@ -9,4 +9,5 @@ int main(int argc, char* argv[])
         std::cout << "go";
     else
         std::cout << "no";
+    return 0;
 }
