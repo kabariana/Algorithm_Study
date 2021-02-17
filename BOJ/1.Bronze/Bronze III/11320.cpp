@@ -20,4 +20,5 @@ int main(int argc, char* argv[])
         b /= gcd;
         std::cout << a*a / b*b <<'\n';
     }
+    return 0;
 }
