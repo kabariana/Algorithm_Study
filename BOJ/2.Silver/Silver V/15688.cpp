@@ -19,4 +19,5 @@ int main(int argc, char* argv[])
         std::cout << arr[i] << '\n';
 
     delete[] arr;
+    return 0;
 }
