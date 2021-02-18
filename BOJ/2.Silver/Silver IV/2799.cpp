@@ -1,3 +1,4 @@
+// 각 창문으로가서 첫 번째 글자만 비교
 #include <bits/stdc++.h>
 
 int status[5];
