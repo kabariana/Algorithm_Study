@@ -18,4 +18,5 @@ int main(int argc, char* argv[])
         else
             std::cout << "Scalene\n";
     }
+    return 0;
 }
