@@ -10,4 +10,5 @@ int main(int argc, char* argv[])
             cnt++;
     }
     std::cout << cnt;
+    return 0;
 }
