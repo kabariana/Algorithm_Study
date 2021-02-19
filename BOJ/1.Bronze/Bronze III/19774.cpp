@@ -20,4 +20,5 @@ int main(int argc, char* argv[])
         else
             std::cout << "NO\n";
     }
+    return 0;
 }
