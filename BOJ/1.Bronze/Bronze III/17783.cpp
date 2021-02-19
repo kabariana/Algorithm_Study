@@ -9,4 +9,5 @@ int main(int argc, char* argv[])
         std::cout << "Alice\n1";
     else
         std::cout << "Bob";
+    return 0;
 }
