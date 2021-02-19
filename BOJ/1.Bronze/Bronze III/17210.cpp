@@ -15,7 +15,5 @@ int main(int argc, char* argv[])
 	}
     else
         std::cout << "Love is open door";
-
-
-
+    return 0;
 }
