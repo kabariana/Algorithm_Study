@@ -15,5 +15,6 @@ int main(int argc, char* argv[])
         if(cnt == 2*N)
             delta = -1;
     }
-    std::cout << cnt
+    std::cout << cnt;
+    return 0;
 }
