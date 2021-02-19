@@ -12,4 +12,5 @@ int main(int argc, char* argv[])
         double tmp = (double)(d1-d2)/2;
         printf("%.2lf", k*k-tmp*tmp);
     }
+    return 0;
 }
