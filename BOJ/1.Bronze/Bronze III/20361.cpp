@@ -14,5 +14,6 @@ int main(int argc, char* argv[])
         else if(b==x)
             x=a;
     }
-    std::cout << x
+    std::cout << x;
+    return 0;
 }
