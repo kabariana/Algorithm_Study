@@ -15,8 +15,9 @@ int main(int argc, char* argv[])
         {
             int a, b;
             std::cin >> a >> b;
-            cnt+= a*2 - b;
+            cnt = cnt*a - b;
         }
         std::cout << cnt << '\n';
     }
+    return 0;
 }
