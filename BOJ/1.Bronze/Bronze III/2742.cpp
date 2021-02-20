@@ -8,5 +8,7 @@ int main(int argc, char* argv[])
     int n;
     std::cin >> n;
 
-    for(int i = n; i>0; i++)   
+    for(int i = n; i>0; i--)
+        std::cout << i << '\n';
+    return 0;   
 }
