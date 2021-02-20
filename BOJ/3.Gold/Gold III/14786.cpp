@@ -8,7 +8,7 @@ int main(int argc, char* argv[])
 
     s = 0;
     e = 1.0*a*c+a;
-    while(e-s >= 1e-9)
+    while(e-s >= 1e-5)
     {
         double x = (s+e)/2;
         if(a*x + b*std::sin(x)<c)
@@ -16,6 +16,6 @@ int main(int argc, char* argv[])
         else
             e = x;
     }
-    printf("%.19f", e);
+    printf("%.6lf", e);
     return 0;   
 }
