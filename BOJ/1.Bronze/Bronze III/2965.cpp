@@ -11,4 +11,5 @@ int main(int argc, char* argv[])
     else
         res = c-b-1;
     std::cout << res;
+    return 0;
 }
