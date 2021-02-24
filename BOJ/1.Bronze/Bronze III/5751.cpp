@@ -23,7 +23,7 @@ int main(int argc, char* argv[])
                 cnt++;
         }
 
-        std::cout << "Mary won " << n-cnt << " times and Johm won " << cnt << " times\n";
+        std::cout << "Mary won " << n-cnt << " times and John won " << cnt << " times\n";
     }
     return 0;
 }
