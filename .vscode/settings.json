@@ -45,6 +45,7 @@
         "string": "cpp",
         "hash_map": "cpp",
         "list": "cpp",
-        "xhash": "cpp"
+        "xhash": "cpp",
+        "random": "cpp"
     }
 }
