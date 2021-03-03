@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
 
     while(T--)
     {
-        int A, B;
+        double A, B;
         std::cin >> A >> B;
         std::cout << std::fixed << std::setprecision(0) << (A*A/2)/(B*B/2)<<'\n';
     }
