@@ -6,7 +6,7 @@ int main(int argc, char* argv[])
     std::cin.tie(nullptr), std::cout.tie(nullptr);
     int n;
     std::cin >> n;
-    int maxv = 0, minv = 1000001;
+    int maxv = -1000001, minv = 1000001;
     for(int i = 0; i<n; i++)
     {
         int num;
