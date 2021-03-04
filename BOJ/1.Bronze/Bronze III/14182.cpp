@@ -20,4 +20,5 @@ int main(int argc, char* argv[])
         else
             std::cout << int(n*(0.8)) << '\n';
     }
+    return 0;
 }
