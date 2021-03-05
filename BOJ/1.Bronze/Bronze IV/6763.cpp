@@ -11,4 +11,7 @@ int main(int argc, char* argv[])
         std::cout << "You are speeding and your fine is $100.";
     else if(b<=a+30)
         std::cout << "You are speeding and your fine is $270.";
+    else
+        std::cout << "You are speeding and your fine is $500.";
+    return 0;
 }
