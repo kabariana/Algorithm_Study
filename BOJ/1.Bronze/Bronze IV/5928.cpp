@@ -14,4 +14,5 @@ int main(int argc, char* argv[])
         std::cout << "-1";
     else
         std::cout << conv(d, h, m)-conv(11, 11, 11);
+    return 0;
 }
