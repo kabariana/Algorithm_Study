@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="MissionCompletedAge">
+        <Key name="1">
+            <Value int="2"/>
+        </Key>
+        <Key name="2">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="StoryMisc">
+        <Key name="0">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="MissionAvailableAge">
+        <Key name="3">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="ObjectiveProgress"/>
+    <Section name="StoryStage">
+        <Key name="4">
+            <Value int="2"/>
+        </Key>
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="8">
+            <Value int="45000"/>
+        </Key>
+        <Key name="2">
+            <Value int="31"/>
+        </Key>
+        <Key name="7">
+            <Value int="2"/>
+        </Key>
+        <Key name="5">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="HelpUnitsPanel">
+        <Key name="4">
+            <Value string="Medic"/>
+        </Key>
+        <Key name="1">
+            <Value string="Marine"/>
+        </Key>
+        <Key name="3">
+            <Value string="CommandCenter"/>
+        </Key>
+        <Key name="0">
+            <Value int="4"/>
+        </Key>
+        <Key name="2">
+            <Value string="SCV"/>
+        </Key>
+    </Section>
+    <Section name="MissionCompletion">
+        <Key name="2-Casual">
+            <Value flag="1"/>
+        </Key>
+        <Key name="1-Casual">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="StoryState">
+        <Key name="StoryState|TychusOn">
+            <StateValue int="1"/>
+        </Key>
+    </Section>
+    <Section name="MissionBestTime">
+        <Key name="2-Casual">
+            <Value int="120"/>
+        </Key>
+        <Key name="1-Casual">
+            <Value int="153"/>
+        </Key>
+    </Section>
+    <Section name="TutorialHistory">
+        <Key name="4_2">
+            <Value text="병영에서 해병을 포함한 기타 유닛을 훈련할 수 있습니다. 해병을 훈련하려면 먼저 병영을 선택하고 해병 훈련 버튼을 클릭하십시오."/>
+        </Key>
+        <Key name="7_3">
+            <Value string="Assets\Textures\btn-building-terran-commandcenter.dds"/>
+        </Key>
+        <Key name="2_2">
+            <Value text="커서를 화면 가장자리로 옮겨 카메라를 그쪽으로 이동하십시오."/>
+        </Key>
+        <Key name="7_4">
+            <Value string="Assets\Textures\video_tutorial_terran_base_construction.ogv"/>
+        </Key>
+        <Key name="6_2">
+            <Value text="보급품이 모자라면 유닛을 훈련할 수 없습니다. 더 많은 보급고를 건설해 보급품을 늘리십시오."/>
+        </Key>
+        <Key name="2_1">
+            <Value text="카메라 제어"/>
+        </Key>
+        <Key name="3_1">
+            <Value text="유닛 이동"/>
+        </Key>
+        <Key name="7_1">
+            <Value text="구조물 건설"/>
+        </Key>
+        <Key name="7_2">
+            <Value text="구조물을 통해 유닛을 훈련하고 병력을 업그레이드할 수 있습니다. 구조물을 건설하려면 건설로봇을 선택하고 구조물 건설 능력을 사용하십시오."/>
+        </Key>
+        <Key name="1_4">
+            <Value string="Assets\Textures\video_tutorial_combat.ogv"/>
+        </Key>
+        <Key name="0">
+            <Value int="7"/>
+        </Key>
+        <Key name="1_2">
+            <Value text="유닛을 선택한 채로, 적을 마우스 오른쪽 버튼으로 클릭해 공격 명령을 내립니다."/>
+        </Key>
+        <Key name="2_3">
+            <Value string="Assets\Textures\ui_tutorial_cameraicon.dds"/>
+        </Key>
+        <Key name="4_4">
+            <Value string="Assets\Textures\video_tutorial_terran_unit_production.ogv"/>
+        </Key>
+        <Key name="5_2">
+            <Value text="유닛을 훈련하고 구조물을 건설하려면 광물과 베스핀 가스가 필요합니다. 자원을 모으려면 건설로봇을 선택하고 광물 지대나 정제소를 오른쪽 클릭하십시오."/>
+        </Key>
+        <Key name="1_3">
+            <Value string="Assets\Textures\btn-command-attack.dds"/>
+        </Key>
+        <Key name="2_4">
+            <Value string="Assets\Textures\video_tutorial_camera_control.ogv"/>
+        </Key>
+        <Key name="4_1">
+            <Value text="유닛 훈련"/>
+        </Key>
+        <Key name="5_1">
+            <Value text="자원 채취"/>
+        </Key>
+        <Key name="5_3">
+            <Value string="Assets\Textures\icon-mineral-terran.dds"/>
+        </Key>
+        <Key name="6_1">
+            <Value text="보급품"/>
+        </Key>
+        <Key name="3_2">
+            <Value text="유닛을 선택한 채로, 마우스 오른쪽 버튼을 클릭해 이동 명령을 내립니다."/>
+        </Key>
+        <Key name="5_4">
+            <Value string="Assets\Textures\video_tutorial_resource_collection.ogv"/>
+        </Key>
+        <Key name="6_3">
+            <Value string="Assets\Textures\icon-supply-terran.dds"/>
+        </Key>
+        <Key name="1_1">
+            <Value text="공격"/>
+        </Key>
+        <Key name="3_3">
+            <Value string="Assets\Textures\btn-command-move.dds"/>
+        </Key>
+        <Key name="3_4">
+            <Value string="Assets\Textures\video_tutorial_movement.ogv"/>
+        </Key>
+        <Key name="4_3">
+            <Value string="Assets\Textures\btn-unit-terran-marine.dds"/>
+        </Key>
+        <Key name="6_4">
+            <Value string="Assets\Textures\video_tutorial_terran_supply.ogv"/>
+        </Key>
+    </Section>
+    <Section name="DebugTechCheatOption">
+        <Key name="0">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="MercStatus">
+        <Key name="1">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="TechStatus">
+        <Key name="9">
+            <Value int="4"/>
+        </Key>
+        <Key name="1">
+            <Value int="4"/>
+        </Key>
+        <Key name="8">
+            <Value int="4"/>
+        </Key>
+        <Key name="2">
+            <Value int="4"/>
+        </Key>
+        <Key name="10">
+            <Value int="4"/>
+        </Key>
+        <Key name="11">
+            <Value int="4"/>
+        </Key>
+        <Key name="7">
+            <Value int="4"/>
+        </Key>
+        <Key name="12">
+            <Value int="4"/>
+        </Key>
+    </Section>
+</Bank>

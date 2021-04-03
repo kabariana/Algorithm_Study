@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="CODE02">
+        <Key name="C0101">
+            <Value int="8"/>
+        </Key>
+        <Key name="C0102">
+            <Value int="-6"/>
+        </Key>
+    </Section>
+    <Section name="CODE07">
+        <Key name="S01">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="CODE03">
+        <Key name="E02">
+            <Value int="56968"/>
+        </Key>
+        <Key name="E03">
+            <Value int="26972"/>
+        </Key>
+        <Key name="E01">
+            <Value int="-83158"/>
+        </Key>
+        <Key name="E04">
+            <Value int="-997"/>
+        </Key>
+    </Section>
+    <Section name="CODE04">
+        <Key name="P17">
+            <Value int="9999"/>
+        </Key>
+        <Key name="P11">
+            <Value int="3333"/>
+        </Key>
+        <Key name="P02">
+            <Value int="333"/>
+        </Key>
+        <Key name="P01">
+            <Value int="247"/>
+        </Key>
+        <Key name="P06">
+            <Value int="777"/>
+        </Key>
+        <Key name="P14">
+            <Value int="6666"/>
+        </Key>
+        <Key name="P18">
+            <Value int="11111"/>
+        </Key>
+        <Key name="P10">
+            <Value int="2222"/>
+        </Key>
+        <Key name="P04">
+            <Value int="555"/>
+        </Key>
+        <Key name="P09">
+            <Value int="1111"/>
+        </Key>
+        <Key name="P20">
+            <Value int="33333"/>
+        </Key>
+        <Key name="P15">
+            <Value int="7777"/>
+        </Key>
+        <Key name="P07">
+            <Value int="888"/>
+        </Key>
+        <Key name="P12">
+            <Value int="4444"/>
+        </Key>
+        <Key name="P08">
+            <Value int="999"/>
+        </Key>
+        <Key name="P16">
+            <Value int="8888"/>
+        </Key>
+        <Key name="P03">
+            <Value int="444"/>
+        </Key>
+        <Key name="P19">
+            <Value int="22222"/>
+        </Key>
+        <Key name="P13">
+            <Value int="5555"/>
+        </Key>
+        <Key name="P05">
+            <Value int="666"/>
+        </Key>
+    </Section>
+    <Section name="CODE01">
+        <Key name="P02">
+            <Value int="34553"/>
+        </Key>
+        <Key name="P01">
+            <Value int="2334"/>
+        </Key>
+        <Key name="P04">
+            <Value int="178"/>
+        </Key>
+        <Key name="P03">
+            <Value int="-780"/>
+        </Key>
+    </Section>
+    <Section name="CODE10">
+        <Key name="TCX">
+            <Value int="0"/>
+        </Key>
+        <Key name="TCY">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="ED246B683B7469B198911A381242D8930CB0A7CB"/>
+</Bank>

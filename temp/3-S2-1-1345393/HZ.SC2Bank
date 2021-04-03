@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="HZcode">
+        <Key name="Save3">
+            <Value string="HXN1AVL4"/>
+        </Key>
+        <Key name="Save2">
+            <Value string="P"/>
+        </Key>
+        <Key name="Save1">
+            <Value string="3-S2-1-1292105"/>
+        </Key>
+    </Section>
+    <Signature value="FC5DF64CF03FD600D3CA080048F4B6CECB11E473"/>
+</Bank>

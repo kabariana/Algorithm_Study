@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Rank">
+        <Key name="INT">
+            <Value int="16"/>
+        </Key>
+        <Key name="STR">
+            <Value string="3-S2-1-1292105"/>
+        </Key>
+        <Key name="TIT">
+            <Value int="200"/>
+        </Key>
+    </Section>
+    <Signature value="1E70DE9879273E41062639FDCDF347B8383A780D"/>
+</Bank>

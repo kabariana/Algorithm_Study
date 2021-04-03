@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="name">
+        <Key name="n1">
+            <Value string="솔로"/>
+        </Key>
+    </Section>
+    <Section name="s1">
+        <Key name="83">
+            <Value int="0"/>
+        </Key>
+        <Key name="72">
+            <Value int="0"/>
+        </Key>
+        <Key name="38">
+            <Value int="0"/>
+        </Key>
+        <Key name="14">
+            <Value int="0"/>
+        </Key>
+        <Key name="60">
+            <Value int="0"/>
+        </Key>
+        <Key name="49">
+            <Value int="27"/>
+        </Key>
+        <Key name="41">
+            <Value int="1"/>
+        </Key>
+        <Key name="28">
+            <Value int="4"/>
+        </Key>
+        <Key name="25">
+            <Value int="0"/>
+        </Key>
+        <Key name="77">
+            <Value int="0"/>
+        </Key>
+        <Key name="57">
+            <Value int="0"/>
+        </Key>
+        <Key name="40">
+            <Value int="0"/>
+        </Key>
+        <Key name="30">
+            <Value int="3"/>
+        </Key>
+        <Key name="97">
+            <Value int="0"/>
+        </Key>
+        <Key name="6">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="5"/>
+        </Key>
+        <Key name="91">
+            <Value int="0"/>
+        </Key>
+        <Key name="76">
+            <Value int="0"/>
+        </Key>
+        <Key name="73">
+            <Value int="0"/>
+        </Key>
+        <Key name="39">
+            <Value int="61"/>
+        </Key>
+        <Key name="81">
+            <Value int="0"/>
+        </Key>
+        <Key name="66">
+            <Value int="0"/>
+        </Key>
+        <Key name="86">
+            <Value int="0"/>
+        </Key>
+        <Key name="59">
+            <Value int="0"/>
+        </Key>
+        <Key name="35">
+            <Value int="20"/>
+        </Key>
+        <Key name="8">
+            <Value int="0"/>
+        </Key>
+        <Key name="95">
+            <Value int="0"/>
+        </Key>
+        <Key name="90">
+            <Value int="0"/>
+        </Key>
+        <Key name="62">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="5"/>
+        </Key>
+        <Key name="43">
+            <Value int="0"/>
+        </Key>
+        <Key name="65">
+            <Value int="0"/>
+        </Key>
+        <Key name="44">
+            <Value int="0"/>
+        </Key>
+        <Key name="11">
+            <Value int="5"/>
+        </Key>
+        <Key name="85">
+            <Value int="0"/>
+        </Key>
+        <Key name="78">
+            <Value int="0"/>
+        </Key>
+        <Key name="61">
+            <Value int="0"/>
+        </Key>
+        <Key name="48">
+            <Value int="0"/>
+        </Key>
+        <Key name="32">
+            <Value int="5"/>
+        </Key>
+        <Key name="15">
+            <Value int="0"/>
+        </Key>
+        <Key name="82">
+            <Value int="1"/>
+        </Key>
+        <Key name="93">
+            <Value int="0"/>
+        </Key>
+        <Key name="51">
+            <Value int="27"/>
+        </Key>
+        <Key name="36">
+            <Value int="5"/>
+        </Key>
+        <Key name="34">
+            <Value int="3"/>
+        </Key>
+        <Key name="22">
+            <Value int="10"/>
+        </Key>
+        <Key name="58">
+            <Value int="0"/>
+        </Key>
+        <Key name="33">
+            <Value int="0"/>
+        </Key>
+        <Key name="31">
+            <Value int="5"/>
+        </Key>
+        <Key name="29">
+            <Value int="5"/>
+        </Key>
+        <Key name="16">
+            <Value int="0"/>
+        </Key>
+        <Key name="4">
+            <Value int="0"/>
+        </Key>
+        <Key name="46">
+            <Value int="0"/>
+        </Key>
+        <Key name="89">
+            <Value int="0"/>
+        </Key>
+        <Key name="87">
+            <Value int="1"/>
+        </Key>
+        <Key name="71">
+            <Value int="0"/>
+        </Key>
+        <Key name="9">
+            <Value int="10"/>
+        </Key>
+        <Key name="69">
+            <Value int="0"/>
+        </Key>
+        <Key name="68">
+            <Value int="0"/>
+        </Key>
+        <Key name="19">
+            <Value int="0"/>
+        </Key>
+        <Key name="96">
+            <Value int="0"/>
+        </Key>
+        <Key name="54">
+            <Value int="0"/>
+        </Key>
+        <Key name="47">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="27">
+            <Value int="0"/>
+        </Key>
+        <Key name="26">
+            <Value int="0"/>
+        </Key>
+        <Key name="84">
+            <Value int="0"/>
+        </Key>
+        <Key name="70">
+            <Value int="0"/>
+        </Key>
+        <Key name="20">
+            <Value int="4"/>
+        </Key>
+        <Key name="10">
+            <Value int="3"/>
+        </Key>
+        <Key name="94">
+            <Value int="0"/>
+        </Key>
+        <Key name="88">
+            <Value int="0"/>
+        </Key>
+        <Key name="64">
+            <Value int="0"/>
+        </Key>
+        <Key name="45">
+            <Value int="0"/>
+        </Key>
+        <Key name="23">
+            <Value int="10"/>
+        </Key>
+        <Key name="92">
+            <Value int="0"/>
+        </Key>
+        <Key name="74">
+            <Value int="1"/>
+        </Key>
+        <Key name="21">
+            <Value int="10"/>
+        </Key>
+        <Key name="79">
+            <Value int="0"/>
+        </Key>
+        <Key name="50">
+            <Value int="27"/>
+        </Key>
+        <Key name="37">
+            <Value int="0"/>
+        </Key>
+        <Key name="100">
+            <Value int="2"/>
+        </Key>
+        <Key name="80">
+            <Value int="0"/>
+        </Key>
+        <Key name="52">
+            <Value int="0"/>
+        </Key>
+        <Key name="7">
+            <Value int="0"/>
+        </Key>
+        <Key name="99">
+            <Value int="0"/>
+        </Key>
+        <Key name="98">
+            <Value int="0"/>
+        </Key>
+        <Key name="75">
+            <Value int="3"/>
+        </Key>
+        <Key name="55">
+            <Value int="0"/>
+        </Key>
+        <Key name="53">
+            <Value int="0"/>
+        </Key>
+        <Key name="42">
+            <Value int="0"/>
+        </Key>
+        <Key name="24">
+            <Value int="0"/>
+        </Key>
+        <Key name="17">
+            <Value int="15"/>
+        </Key>
+        <Key name="13">
+            <Value int="8"/>
+        </Key>
+        <Key name="12">
+            <Value int="4"/>
+        </Key>
+        <Key name="67">
+            <Value int="0"/>
+        </Key>
+        <Key name="63">
+            <Value int="0"/>
+        </Key>
+        <Key name="56">
+            <Value int="0"/>
+        </Key>
+        <Key name="18">
+            <Value int="15"/>
+        </Key>
+        <Key name="5">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="t">
+        <Key name="4">
+            <Value int="2"/>
+        </Key>
+        <Key name="6">
+            <Value int="2"/>
+        </Key>
+        <Key name="1">
+            <Value int="1"/>
+        </Key>
+        <Key name="3">
+            <Value int="1"/>
+        </Key>
+        <Key name="8">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="1"/>
+        </Key>
+        <Key name="7">
+            <Value int="0"/>
+        </Key>
+        <Key name="5">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Signature value="A0CAA86DA8015FF8BC88CBA50CB2661BA595B8CB"/>
+</Bank>

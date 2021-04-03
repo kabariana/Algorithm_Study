@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="4">
+        <Key name="4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="9">
+            <Value flag="1"/>
+        </Key>
+        <Key name="6">
+            <Value flag="1"/>
+        </Key>
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="8">
+            <Value flag="1"/>
+        </Key>
+        <Key name="10">
+            <Value flag="1"/>
+        </Key>
+        <Key name="2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="11">
+            <Value flag="0"/>
+        </Key>
+        <Key name="7">
+            <Value flag="1"/>
+        </Key>
+        <Key name="5">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="6">
+        <Key name="4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="9">
+            <Value flag="0"/>
+        </Key>
+        <Key name="6">
+            <Value flag="0"/>
+        </Key>
+        <Key name="1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="8">
+            <Value flag="0"/>
+        </Key>
+        <Key name="2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="7">
+            <Value flag="0"/>
+        </Key>
+        <Key name="5">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="1">
+        <Key name="4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="9">
+            <Value flag="1"/>
+        </Key>
+        <Key name="6">
+            <Value flag="1"/>
+        </Key>
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="0"/>
+        </Key>
+        <Key name="8">
+            <Value flag="0"/>
+        </Key>
+        <Key name="10">
+            <Value flag="0"/>
+        </Key>
+        <Key name="2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="7">
+            <Value flag="0"/>
+        </Key>
+        <Key name="5">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="3">
+        <Key name="4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="9">
+            <Value flag="1"/>
+        </Key>
+        <Key name="6">
+            <Value flag="1"/>
+        </Key>
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="8">
+            <Value flag="1"/>
+        </Key>
+        <Key name="10">
+            <Value flag="1"/>
+        </Key>
+        <Key name="2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="11">
+            <Value flag="1"/>
+        </Key>
+        <Key name="7">
+            <Value flag="1"/>
+        </Key>
+        <Key name="12">
+            <Value flag="0"/>
+        </Key>
+        <Key name="5">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="2">
+        <Key name="4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="9">
+            <Value flag="1"/>
+        </Key>
+        <Key name="6">
+            <Value flag="1"/>
+        </Key>
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="8">
+            <Value flag="1"/>
+        </Key>
+        <Key name="10">
+            <Value flag="1"/>
+        </Key>
+        <Key name="2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="11">
+            <Value flag="0"/>
+        </Key>
+        <Key name="7">
+            <Value flag="1"/>
+        </Key>
+        <Key name="5">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="hisex">
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="2">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="hisnum">
+        <Key name="1">
+            <Value int="3"/>
+        </Key>
+        <Key name="2">
+            <Value int="9"/>
+        </Key>
+    </Section>
+    <Section name="hissec">
+        <Key name="1">
+            <Value int="6"/>
+        </Key>
+        <Key name="2">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="galex">
+        <Key name="4">
+            <Value flag="0"/>
+        </Key>
+        <Key name="6">
+            <Value flag="0"/>
+        </Key>
+        <Key name="1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="3">
+            <Value flag="0"/>
+        </Key>
+        <Key name="2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="5">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="5">
+        <Key name="4">
+            <Value flag="0"/>
+        </Key>
+        <Key name="9">
+            <Value flag="1"/>
+        </Key>
+        <Key name="6">
+            <Value flag="0"/>
+        </Key>
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="0"/>
+        </Key>
+        <Key name="8">
+            <Value flag="0"/>
+        </Key>
+        <Key name="10">
+            <Value flag="0"/>
+        </Key>
+        <Key name="2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="11">
+            <Value flag="0"/>
+        </Key>
+        <Key name="7">
+            <Value flag="0"/>
+        </Key>
+        <Key name="5">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+</Bank>

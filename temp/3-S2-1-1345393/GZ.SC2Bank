@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="GZcode">
+        <Key name="Save5">
+            <Value string="11RH1B11SR"/>
+        </Key>
+        <Key name="Save3">
+            <Value string="BFFHFHBSFH"/>
+        </Key>
+        <Key name="Save2">
+            <Value string="DDDD1QJ1"/>
+        </Key>
+        <Key name="Save7">
+            <Value string="A1M8AIBDQBVAJXLFABK"/>
+        </Key>
+        <Key name="Save4">
+            <Value string="BR1BFBR1FS"/>
+        </Key>
+        <Key name="Save6">
+            <Value string="JQJ6QJQQDYQRDKDBJR8R"/>
+        </Key>
+        <Key name="Save1">
+            <Value string="N"/>
+        </Key>
+    </Section>
+    <Signature value="417E93CA9773CCC364AF14FC17D85B1983B55252"/>
+</Bank>

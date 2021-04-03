@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="score">
+        <Key name="16">
+            <Value string="00011"/>
+        </Key>
+        <Key name="14">
+            <Value string="00011"/>
+        </Key>
+        <Key name="4">
+            <Value string="002N5bbb9d"/>
+        </Key>
+        <Key name="9">
+            <Value string="003Rc9iige"/>
+        </Key>
+        <Key name="6">
+            <Value string="002T7d7dbc"/>
+        </Key>
+        <Key name="1">
+            <Value string="001h352259"/>
+        </Key>
+        <Key name="3">
+            <Value string="001N465a57"/>
+        </Key>
+        <Key name="8">
+            <Value string="0036aa8bhf"/>
+        </Key>
+        <Key name="10">
+            <Value string="0017464942"/>
+        </Key>
+        <Key name="2">
+            <Value string="001.33b987"/>
+        </Key>
+        <Key name="11">
+            <Value string="00011"/>
+        </Key>
+        <Key name="15">
+            <Value string="00011"/>
+        </Key>
+        <Key name="7">
+            <Value string="002}abdgg8"/>
+        </Key>
+        <Key name="17">
+            <Value string="00011"/>
+        </Key>
+        <Key name="13">
+            <Value string="00011"/>
+        </Key>
+        <Key name="12">
+            <Value string="001A258675"/>
+        </Key>
+        <Key name="18">
+            <Value string="00011"/>
+        </Key>
+        <Key name="5">
+            <Value string="002t8cba6c"/>
+        </Key>
+    </Section>
+    <Signature value="95954311D8C3BCA782288C8E433D18D4E7707DE0"/>
+</Bank>

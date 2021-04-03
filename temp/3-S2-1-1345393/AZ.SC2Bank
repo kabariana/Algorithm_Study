@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="AZcode">
+        <Key name="Save5">
+            <Value string="off"/>
+        </Key>
+        <Key name="Save3">
+            <Value string="18"/>
+        </Key>
+        <Key name="Save2">
+            <Value string="PBMQJRADQSTPHO"/>
+        </Key>
+        <Key name="Save4">
+            <Value string="0.5"/>
+        </Key>
+        <Key name="Save1">
+            <Value string="K"/>
+        </Key>
+    </Section>
+    <Signature value="F0FAA7E8CEF195C76C52E7E31BED9022F7FDC898"/>
+</Bank>

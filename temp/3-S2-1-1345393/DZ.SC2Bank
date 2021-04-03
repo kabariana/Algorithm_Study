@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="DZcode">
+        <Key name="Save21">
+            <Value string="DQQDDJDQDDQBDQQDQQJB"/>
+        </Key>
+        <Key name="Save5">
+            <Value string="PDJJDRQDKSKBJQQQDJDR"/>
+        </Key>
+        <Key name="Save28">
+            <Value string="JJDQQQJQJDD1DDQDQQJB"/>
+        </Key>
+        <Key name="Save16">
+            <Value string="JQQJJJQQDDQ1JJJQDJQ1"/>
+        </Key>
+        <Key name="Save19">
+            <Value string="BDAQXRmTVSJR68ZJQQGR"/>
+        </Key>
+        <Key name="Save11">
+            <Value string="HJQQPRDJOHKBJ4BQDDI1"/>
+        </Key>
+        <Key name="Save3">
+            <Value string="QJDQJRQDYBR1DJJQQQIR"/>
+        </Key>
+        <Key name="Save2">
+            <Value string="VQQJQRDQMQERJJJJQQJ1"/>
+        </Key>
+        <Key name="Save29">
+            <Value string="JJDJQQJDDJQ1QDQQJJJ1"/>
+        </Key>
+        <Key name="Save24">
+            <Value string="DJDDJJJJDDJ1DQQDQDJR"/>
+        </Key>
+        <Key name="Save22">
+            <Value string="DDDDJJJDJQQ1DDQQQDQ1"/>
+        </Key>
+        <Key name="Save33">
+            <Value string="YJQQDRQD8DQ1QQQDJJXR"/>
+        </Key>
+        <Key name="Save18">
+            <Value string="UDMPSRQDBJQRFG1DQQV1"/>
+        </Key>
+        <Key name="Save7">
+            <Value string="G4QJJBDDTDCBQJJDJDW1"/>
+        </Key>
+        <Key name="Save34">
+            <Value string="OJSJ8RJJAQKBRK8QQQXB"/>
+        </Key>
+        <Key name="Save36">
+            <Value string="C"/>
+        </Key>
+        <Key name="Save9">
+            <Value string="YDJQDBJDFFX1JJJJQJUB"/>
+        </Key>
+        <Key name="Save30">
+            <Value string="DJDJJJQJQDQ1DJJJQDD1"/>
+        </Key>
+        <Key name="Save25">
+            <Value string="JDDDDJJJDDQRJQJJDJJ1"/>
+        </Key>
+        <Key name="Save13">
+            <Value string="GQQQJRJDPFB1JJDQQDZ1"/>
+        </Key>
+        <Key name="Save31">
+            <Value string="BQIMQBDQJIDRDU1DDDQR"/>
+        </Key>
+        <Key name="Save20">
+            <Value string="JDDQQJDQQDDBQJQJDDJ1"/>
+        </Key>
+        <Key name="Save17">
+            <Value string="OGYGPRJDPDKRCJ4JQJUR"/>
+        </Key>
+        <Key name="Save8">
+            <Value string="FFQDQRQJRQ1RDDJQJQQR"/>
+        </Key>
+        <Key name="Save4">
+            <Value string="TDJQDBDJ8DDRDJQQDDP1"/>
+        </Key>
+        <Key name="Save35">
+            <Value string="TJJJJRJDVH11DJQDJJJB"/>
+        </Key>
+        <Key name="Save26">
+            <Value string="1JREA1QJ1FQBJ8VDDD8R"/>
+        </Key>
+        <Key name="Save15">
+            <Value string="1QZWTRSSIRQBR8ZLIMTR"/>
+        </Key>
+        <Key name="Save12">
+            <Value string="RJKOGBQDPHK1HOMDJQGR"/>
+        </Key>
+        <Key name="Save27">
+            <Value string="DQQDJJJJQQDBQDQQDQJB"/>
+        </Key>
+        <Key name="Save14">
+            <Value string="1JZH1RDQBQDBQQSQJJXR"/>
+        </Key>
+        <Key name="Save32">
+            <Value string="HJNJARQJRGDBANIQJQDR"/>
+        </Key>
+        <Key name="Save23">
+            <Value string="QDDJQDDDQDQBJJJQQDQR"/>
+        </Key>
+        <Key name="Save10">
+            <Value string="SJDQJBDQGSZ1QDJDDJUR"/>
+        </Key>
+        <Key name="Save6">
+            <Value string="4FQDJ1DJUDFRQDQQJDMB"/>
+        </Key>
+        <Key name="Save1">
+            <Value string="HQDDQRJQEQJ1DDDJQDAR"/>
+        </Key>
+    </Section>
+    <Signature value="E8103E346AE456645642269AB5961045C218B2F7"/>
+</Bank>

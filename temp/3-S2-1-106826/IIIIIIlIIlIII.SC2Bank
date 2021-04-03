@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="s2">
+        <Key name="4">
+            <Value int="6"/>
+        </Key>
+        <Key name="1">
+            <Value int="4"/>
+        </Key>
+        <Key name="3">
+            <Value int="38"/>
+        </Key>
+        <Key name="2">
+            <Value int="2"/>
+        </Key>
+        <Key name="5">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="name">
+        <Key name="n1">
+            <Value string="버스"/>
+        </Key>
+        <Key name="n2">
+            <Value string="솔로"/>
+        </Key>
+    </Section>
+    <Section name="s1">
+        <Key name="4">
+            <Value int="6"/>
+        </Key>
+        <Key name="1">
+            <Value int="1"/>
+        </Key>
+        <Key name="3">
+            <Value int="5"/>
+        </Key>
+        <Key name="2">
+            <Value int="2"/>
+        </Key>
+        <Key name="5">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="3CB270EFCEDCAEDE7EC027FA8DB99FF077ABA62E"/>
+</Bank>

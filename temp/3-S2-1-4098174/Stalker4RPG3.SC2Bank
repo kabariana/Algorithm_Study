@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="AC1">
+        <Key name="41">
+            <Value int="319"/>
+        </Key>
+        <Key name="1">
+            <Value int="560"/>
+        </Key>
+        <Key name="81">
+            <Value int="293"/>
+        </Key>
+    </Section>
+    <Section name="AC3">
+        <Key name="1">
+            <Value int="846"/>
+        </Key>
+    </Section>
+    <Section name="AC4">
+        <Key name="101">
+            <Value int="714"/>
+        </Key>
+        <Key name="1">
+            <Value int="714"/>
+        </Key>
+        <Key name="196">
+            <Value int="529"/>
+        </Key>
+    </Section>
+    <Section name="AC7">
+        <Key name="150">
+            <Value int="335"/>
+        </Key>
+    </Section>
+    <Signature value="C2361C18231F69A92E175235AC0AA5467A6E70CD"/>
+</Bank>

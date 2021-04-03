@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="TITLE5">
+        <Key name="TITLE2">
+            <Value int="50157"/>
+        </Key>
+    </Section>
+    <Section name="PlayTime">
+        <Key name="PlayTime1">
+            <Value int="630"/>
+        </Key>
+        <Key name="PlayTime2">
+            <Value int="5"/>
+        </Key>
+        <Key name="PlayTime3">
+            <Value int="620"/>
+        </Key>
+    </Section>
+    <Section name="FINALTITLE">
+        <Key name="TITLE">
+            <Value string="(03,04)"/>
+        </Key>
+    </Section>
+    <Section name="PET">
+        <Key name="PETcode3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PETcode6">
+            <Value int="0"/>
+        </Key>
+        <Key name="PETcode4">
+            <Value int="0"/>
+        </Key>
+        <Key name="PETcode1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PETcode2">
+            <Value int="0"/>
+        </Key>
+        <Key name="PETcode5">
+            <Value int="0"/>
+        </Key>
+        <Key name="PETcode7">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="EXP">
+        <Key name="EXPH1">
+            <Value string="3-S2-1-1292105"/>
+        </Key>
+        <Key name="EXPC2">
+            <Value int="10"/>
+        </Key>
+        <Key name="EXP2">
+            <Value int="4863"/>
+        </Key>
+        <Key name="EXPH2">
+            <Value string="13-S2-1-12921050"/>
+        </Key>
+        <Key name="EXPC9">
+            <Value int="45"/>
+        </Key>
+        <Key name="EXP3">
+            <Value int="14358"/>
+        </Key>
+        <Key name="EXPC1">
+            <Value int="1309"/>
+        </Key>
+        <Key name="EXPC6">
+            <Value int="30"/>
+        </Key>
+        <Key name="EXPC3">
+            <Value int="15"/>
+        </Key>
+        <Key name="EXPC10">
+            <Value int="50"/>
+        </Key>
+        <Key name="EXPC7">
+            <Value int="35"/>
+        </Key>
+        <Key name="EXPH3">
+            <Value string="543-S2-1-1761068"/>
+        </Key>
+        <Key name="EXP1">
+            <Value int="2212"/>
+        </Key>
+        <Key name="EXPC4">
+            <Value int="20"/>
+        </Key>
+        <Key name="EXPC8">
+            <Value int="40"/>
+        </Key>
+        <Key name="EXPC5">
+            <Value int="25"/>
+        </Key>
+    </Section>
+    <Section name="TITLE3">
+        <Key name="TITLE4">
+            <Value int="76678"/>
+        </Key>
+    </Section>
+    <Section name="CSTAT01">
+        <Key name="STAT01">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="STAT">
+        <Key name="STAT08">
+            <Value int="2"/>
+        </Key>
+        <Key name="STAT03">
+            <Value int="12"/>
+        </Key>
+    </Section>
+    <Section name="TITLE">
+        <Key name="TITLEcode3">
+            <Value int="76678"/>
+        </Key>
+        <Key name="TITLEcode4">
+            <Value int="0"/>
+        </Key>
+        <Key name="TITLEcode2">
+            <Value int="0"/>
+        </Key>
+        <Key name="TITLEcode1">
+            <Value int="0"/>
+        </Key>
+        <Key name="TITLEcode5">
+            <Value int="-50157"/>
+        </Key>
+    </Section>
+    <Signature value="9D2F9D8917072BD0C4608D26E76A67B831075139"/>
+</Bank>

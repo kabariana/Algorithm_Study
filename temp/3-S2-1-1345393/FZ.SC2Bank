@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="FZcode">
+        <Key name="Save5">
+            <Value string="OIARVLTFKQ1X1QSB"/>
+        </Key>
+        <Key name="Save11">
+            <Value string="DQJDJQDQQQQQJDJR"/>
+        </Key>
+        <Key name="Save3">
+            <Value string="EHURGQ8F4GIMJDQR"/>
+        </Key>
+        <Key name="Save2">
+            <Value string="DJJRQJ4TJJDJQDDR"/>
+        </Key>
+        <Key name="Save7">
+            <Value string="KDZBSFVSJVWETTVB"/>
+        </Key>
+        <Key name="Save9">
+            <Value string="E"/>
+        </Key>
+        <Key name="Save8">
+            <Value string="QJDDJJDQQJQJQJQ1"/>
+        </Key>
+        <Key name="Save4">
+            <Value string="4ZO1JJJD8ZADDJY1"/>
+        </Key>
+        <Key name="Save10">
+            <Value string="YN6BJQVHIZKQDJPB"/>
+        </Key>
+        <Key name="Save6">
+            <Value string="DPORQ1RHSMGD1Q11"/>
+        </Key>
+        <Key name="Save1">
+            <Value string="HUIBWWWHZ1I61EUR"/>
+        </Key>
+    </Section>
+    <Signature value="FDB8563B9AD996991C595EA7BBDA19E45A1B1528"/>
+</Bank>
