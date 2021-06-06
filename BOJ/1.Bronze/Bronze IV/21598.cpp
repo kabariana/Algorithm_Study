@@ -9,4 +9,5 @@ int main(int argc, char* argv[])
     std::cin >> n;
     while(n--)
         std::cout << "SciComLove\n";
+    return 0;
 }
