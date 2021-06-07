@@ -22,4 +22,5 @@ int main(int argc, char* argv[])
             sum2 += (a + b);
     }
     std::cout << sum1 << ' ' << sum2 << '\n';
+    return 0;
 }
