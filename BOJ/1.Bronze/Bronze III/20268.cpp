@@ -19,4 +19,5 @@ int main(int argc, char* argv[])
         }
         std::cout << (n & 2 && m & 2 ? 7 : 1) << '\n';
     }
+    return 0;
 }
