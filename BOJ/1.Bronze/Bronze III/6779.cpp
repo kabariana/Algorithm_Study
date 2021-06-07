@@ -17,7 +17,6 @@ int main(int argc, char* argv[])
             break;
         }
     }
-
     std::cout << (t >= 0 ? "The balloon first touches ground at hour: " + std::to_string(t): "The balloon does not touch ground in the given time.");
     return 0;
 }
