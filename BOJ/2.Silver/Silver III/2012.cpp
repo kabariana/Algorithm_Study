@@ -26,4 +26,5 @@ int main(int argc, char* argv[])
         res += std::abs(i-v[i-1]);
 
     std::cout << res << '\n';
+    return 0;
 }
