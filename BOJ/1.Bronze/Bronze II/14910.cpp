@@ -17,4 +17,5 @@ int main(int argc, char* argv[])
         a = b;
     }
     std::cout << "Good\n";
+    return 0;
 }
