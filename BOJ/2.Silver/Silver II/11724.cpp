@@ -1,4 +1,3 @@
-// DFS
 #include <bits/stdc++.h>
 #define MAX 1001
 
