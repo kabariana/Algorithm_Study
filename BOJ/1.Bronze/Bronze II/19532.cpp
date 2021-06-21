@@ -7,5 +7,4 @@ int main(int argc, char* argv[])
     int determinent = a*e - b*d;
     std::cout << (e*c - b*f)/determinent << ' ' << (a*f-c*d)/determinent <<'\n';
     return 0;
-
 }
