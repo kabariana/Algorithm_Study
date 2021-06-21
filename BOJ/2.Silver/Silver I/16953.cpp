@@ -9,6 +9,7 @@ int main(int argc, char* argv[])
     std::cin >> a >> b;
 
     int cnt = 0;
+
     while(true)
     {
         if(a > b)
