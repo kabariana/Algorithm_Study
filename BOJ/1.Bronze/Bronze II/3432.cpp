@@ -28,7 +28,9 @@ int main(int argc, char* argv[])
     {
         for( int i = 0; i < 5; ++i )
             std::cin >> num[i];
+
         int fa = 0,fb = 0;
+        
         for( int i = 0; i < 5; ++i )
         {
             for( int j = 0; j < 5; ++j )
