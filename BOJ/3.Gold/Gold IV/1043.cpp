@@ -20,7 +20,6 @@ void _union(int x, int y)
     parents[x] = y;
 }
 
-
 int main(int argc, char* argv[])
 {
     std::ios_base::sync_with_stdio(false);
