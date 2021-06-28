@@ -1,4 +1,4 @@
-// 오늘자 3번째 CCW 문제
+// 오늘자 4번째 CCW 문제
 #include <bits/stdc++.h>
 
 typedef long long ll;
