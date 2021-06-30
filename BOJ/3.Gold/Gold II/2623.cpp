@@ -10,6 +10,7 @@ int Indeg[SIZE];
 void topSort()
 {
     std::queue<int> q;
+
     for(int i = 1; i<= N; i++)
         if(Indeg[i] == 0)
             q.push(i);
