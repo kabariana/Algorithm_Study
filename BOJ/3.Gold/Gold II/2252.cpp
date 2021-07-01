@@ -44,8 +44,9 @@ int main(int argc, char* argv[])
         graph[A].push_back(B);
         inDegree[B]++;
     }
-    topSort();
     
+    topSort();
+
     for(int i = 0; i<N; i++)
         std::cout << result[i] << ' ';
     std::cout << '\n';
