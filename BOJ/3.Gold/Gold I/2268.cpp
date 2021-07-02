@@ -1,4 +1,4 @@
-// Segment Tree
+// Segment Tree - 재밌음
 #include <bits/stdc++.h>
 using ll = long long;
 
