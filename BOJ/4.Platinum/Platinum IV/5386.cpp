@@ -8,15 +8,15 @@ int main(int argc, char* argv[])
     int TC, s, k;
     std::cin >> TC;
 
-    while(TC--)
+    while (TC--)
     {
         std::cin >> s >> k;
-        if(k & 1)
-            std::cout << (s & 1) << '\n';
+        if (k & 1) // odd
+            std::cout << (s % 2) << '\n';
         else
         {
             s %= k + 1;
-            std::cout << (s/k*k + s %2) <<'\n';
+            std::cout << (s / k * k + s % 2) << '\n';
         }
     }
     return 0;
