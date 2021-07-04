@@ -23,7 +23,7 @@ int main(int argc, char* argv[])
             if(sum < 0)
                 sum = 0;
         }
-        std::cout << maxValue <<'\n';
+        std::cout << maxValue << '\n';
     }
     return 0;
 }
