@@ -12,7 +12,7 @@ int main(int argc, char* argv[])
     std::cin >> N >> M >> Q;
 
     int tmp = 0;
-    for(int i = 0; i<M; i++)
+    for(int i = 0; i < M; i++)
     {
         str += ('a' + tmp);
         if(i%2)
