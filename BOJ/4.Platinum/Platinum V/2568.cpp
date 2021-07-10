@@ -1,4 +1,4 @@
-// LIS 최장 증가 수열
+// LIS 최장 증가 수열 - 역추적
 #include <bits/stdc++.h>
 using pii = std::pair<int, int>;
 
