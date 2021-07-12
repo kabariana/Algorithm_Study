@@ -18,4 +18,6 @@ int main(int argc, char* argv[])
                 cnt++;
         }
     }
+    std::cout << cnt <<'\n';
+    return 0;
 }
