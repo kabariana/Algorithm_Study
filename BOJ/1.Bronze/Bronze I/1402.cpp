@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 
+// 그냥 다 가능한듯... a = a*1*1*1... 
 int main(int argc, char* argv[])
 {
     std::ios_base::sync_with_stdio(false);
