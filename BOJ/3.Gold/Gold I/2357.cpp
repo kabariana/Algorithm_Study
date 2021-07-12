@@ -1,7 +1,7 @@
 // Update를 안 해도 되는 Segment Tree 문제
-// Segment Tree를 두 개를 해줬더니 안 풀리니
-// 아예 pii Tree 하나를 만들어주는 방식
-// O(nlogn)
+// Segment Tree를 두 개를 해줬더니 안 풀려...
+// 아예 {최소, 최대}를 담는 pii Tree 하나를 만들어주는 방식으로 구현
+// Segment Tree's Time Complexity = O(nlogn)
 #include <bits/stdc++.h>
 using pii = std::pair<int, int>;
 
