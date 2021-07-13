@@ -7,16 +7,16 @@ int main(int argc, char* argv[])
 
     int N;
     std::cin >> N;
-
     std::vector<int> v(N);
-    for(int i = 1; i<=N; i++)
+    
+    for(int i = 0; i<N; i++)
         std::cin >> v[i];
 
-    for(int i = 1; i<N-2; i++)
-        if(v[1] > v[N])
-            v[1]--;
+    for(int i = 0; i < N-3; i++)
+        if(v[0] > v[N-1])
+            v[0]--;
         else
-            v[N]--;
-    std::cout << std::max(v[1], v[N]) - 1 << '\n';
+            v[N-1]--;
+    std::cout << std::max(v[0], v[N-1]) - 1 << '\n';
     return 0;
 }
