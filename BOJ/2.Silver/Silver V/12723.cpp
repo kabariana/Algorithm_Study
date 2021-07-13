@@ -1,3 +1,4 @@
+// 12724번이랑 똑같음
 #include <bits/stdc++.h>
 using ll = long long;
 
