@@ -34,7 +34,7 @@ void update(int node, int start, int end, int left, int right, ll value)
     update_lazy(node, start, end);
     if(right < start || left > end)
         return;
-
+    // 대표 구간을 찾았을 때 
     if(left <= start && end <= right)
     {
         tree[node] += value * ((end - start + 1));
