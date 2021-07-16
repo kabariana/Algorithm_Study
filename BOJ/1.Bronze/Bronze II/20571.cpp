@@ -49,4 +49,5 @@ int main(int argc, char* argv[])
             std::cout << 5;
     }
     std::cout << '\n';
+    return 0;
 }
