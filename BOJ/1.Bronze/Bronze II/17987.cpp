@@ -14,4 +14,5 @@ int main(int argc, char* argv[])
         res.push_back('W');
     }
     std::cout << res << "HOO\n";
+    return 0;
 }
